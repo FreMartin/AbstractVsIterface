@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6038782e-5c10-4e82-a8c7-b857906499c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractVsInterface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Desarrollador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entidades/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entidades/Persona.java" afterDir="false" />
-    </list>
+    <list default="true" id="6038782e-5c10-4e82-a8c7-b857906499c9" name="Changes" comment="codigo completo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +43,18 @@
       <option name="presentableId" value="Default" />
       <updated>1688252569407</updated>
     </task>
+    <task id="LOCAL-00001" summary="codigo completo">
+      <created>1688255916862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688255916862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="codigo completo" />
+    <option name="LAST_COMMIT_MESSAGE" value="codigo completo" />
   </component>
 </project>
